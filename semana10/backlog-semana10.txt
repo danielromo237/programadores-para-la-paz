@@ -1,0 +1,11 @@
+Backlog priorizado — solución comunitaria de reportes y seguimiento
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso y solicitar seguimiento.
+
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para revisarlo a tiempo.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento a los casos pendientes.
+
+4. Como administrador quiero clasificar los reportes por tipo de incidencia para organizar mejor la atención.
+
+5. Como ciudadano quiero recibir una confirmación de que mi reporte fue registrado correctamente para saber que el sistema lo recibió.

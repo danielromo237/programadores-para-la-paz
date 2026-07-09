@@ -1,0 +1,13 @@
+Las 2 tareas del backlog que haría primero son:
+
+1. Registrar una incidencia en el sistema.
+2. Enviar una alerta en Telegram cuando se cree un nuevo reporte.
+
+Estas son las más importantes porque primero se necesita que el sistema pueda recibir reportes de la comunidad, ya que esa es la función principal de la solución. Después, es importante que el equipo o coordinador sea notificado para revisar el caso y darle seguimiento oportuno.
+
+Para mí, una tarea está “terminada” cuando cumple con una definición clara de finalización.
+
+Definición simple de terminado:
+- La funcionalidad fue implementada y funciona correctamente.
+- Se hicieron pruebas básicas para verificar que no presenta errores.
+- El avance quedó guardado y registrado en Git.
