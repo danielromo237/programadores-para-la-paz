@@ -1,0 +1,24 @@
+Modelo de datos para la plataforma "Petición en 3 Clics"
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Almacenar la información de cada causa creada por la comunidad para que pueda ser consultada y recibir apoyos.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los apoyos realizados por los ciudadanos y relacionarlos con la causa correspondiente para llevar un control de la participación.
